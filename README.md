@@ -2,6 +2,8 @@
 
 This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
 
+The backend will be available soon.
+
 ## Installation
 
 1. Fork / clone this repository.
